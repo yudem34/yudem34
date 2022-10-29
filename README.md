@@ -6,4 +6,4 @@ Hi  I'm Yusuf 👋
 - 📫 How to reach me: yusufdemir8934@gmail.com
 - ⚡ Fun fact: I love coding and to learn new language
 
-![GitHub Stats](https://github-readme-stats.vercel.ap... &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yudem34&theme=radical)
