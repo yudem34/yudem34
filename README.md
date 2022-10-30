@@ -124,6 +124,7 @@
       </a>
     </p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yudem34"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=yudem34&show_icons=true"/>
                                               
   
 
