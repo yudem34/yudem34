@@ -71,7 +71,7 @@
       </a>
       <a href="https://www.jenkins.io/doc/book/using/using-local-language/" target="_blank" rel="noreferrer">
         <img
-          src="https://assets.stickpng.com/thumbs/58480984cef1014c0b5e4902.png"
+          src="https://oguzhaninan.gitlab.io/assets/img/jenkins.jpg"
           alt="jenkins"
           width="40"
           height="40"
