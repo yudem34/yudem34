@@ -61,6 +61,30 @@
           height="40"
         />
       </a>
+      <a href="https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html" target="_blank" rel="noreferrer">
+        <img
+          src="https://blogs.ashrithgn.com/content/images/2018/11/600px-AWS_Lambda_logo.svg.png"
+          alt="lambda"
+          width="100"
+          height="40"
+        />
+      </a>
+      <a href="https://www.jenkins.io/doc/book/using/using-local-language/" target="_blank" rel="noreferrer">
+        <img
+          src="https://assets.stickpng.com/thumbs/58480984cef1014c0b5e4902.png"
+          alt="jenkins"
+          width="100"
+          height="40"
+        />
+      </a>
+      <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/" target="_blank" rel="noreferrer">
+        <img
+          src="https://miro.medium.com/max/574/0*lxJbvAVQxepIyyx9.png"
+          alt="jdbs"
+          width="100"
+          height="40"
+        />
+      </a>
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img
           src="https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/01/html5-css3.jpg?resize=498%2C249&ssl=1"
