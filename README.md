@@ -65,7 +65,7 @@
         <img
           src="https://blogs.ashrithgn.com/content/images/2018/11/600px-AWS_Lambda_logo.svg.png"
           alt="lambda"
-          width="100"
+          width="40"
           height="40"
         />
       </a>
@@ -73,7 +73,7 @@
         <img
           src="https://assets.stickpng.com/thumbs/58480984cef1014c0b5e4902.png"
           alt="jenkins"
-          width="100"
+          width="40"
           height="40"
         />
       </a>
@@ -81,7 +81,7 @@
         <img
           src="https://miro.medium.com/max/574/0*lxJbvAVQxepIyyx9.png"
           alt="jdbs"
-          width="100"
+          width="40"
           height="40"
         />
       </a>
