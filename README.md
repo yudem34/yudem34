@@ -123,6 +123,7 @@
         alt="photoshop" width="40" height="40" />
       </a>
     </p>
-
-    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yudem34)]
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yudem34"/>
+                                              
+  
 
