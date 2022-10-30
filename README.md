@@ -1,4 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
+
+- 🌱 I’m a Software Test Engineer
+- 🔭 I’m currently working on coding
+- 💬 Ask me about Java, Lambda, Selenium, SDLC, STLC,HTML-CSS, PostgreSQL, JDBC, API, Jenkins, Cucumber...
+- 📫 How to reach me: yusufdemir8934@gmail.com
+- ⚡ Fun fact: I love coding and to learn new language
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yusufdemir34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusufdemir34" height="30" width="40" /></a>
