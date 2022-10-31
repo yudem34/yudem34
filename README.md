@@ -124,6 +124,5 @@
       </a>
     </p>
     <img src="https://github-readme-stats.vercel.app/api?username=yudem34&show_icons=true"/>
-                                              
-  
-
+    <p                                                                                      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/89ff51eed5d51c967335c5e75f5924588104082b911f6da4a512dafbc17d1454/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6d656e65736465762673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374"><img align="center" src="https://camo.githubusercontent.com/89ff51eed5d51c967335c5e75f5924588104082b911f6da4a512dafbc17d1454/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6d656e65736465762673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="menesdev" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=yudem34&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;"></a>
+   </p>                                                                                       
